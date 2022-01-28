@@ -13,7 +13,7 @@ fullName = firstName + " " + lastName; // New Value is given to Full Name
 
 
 for(var i = 1; i <=5; i++) {
-    console.log(firstName); // Akshay
+    console.log(firstName); // Ankit
 }
 
 
