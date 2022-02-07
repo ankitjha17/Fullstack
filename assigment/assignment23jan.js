@@ -46,3 +46,26 @@ Pattern 1:-
    ***
   *****
  *******     */  
+
+
+  
+
+var n = 5;
+space = "";
+for (var i = 1; i <= n; i++) {
+    for (j = 1; j <= n - i; j++) {
+        space += " ";
+    }
+    for (k = 1; k <= i; k++) {
+        space += "#"
+    }
+    space +="\n"
+}
+console.log(space); 
+
+// Pattern 2
+//    #
+//   ##
+//  ###
+// ####
+//#####
