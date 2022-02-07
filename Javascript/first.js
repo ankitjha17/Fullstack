@@ -9,8 +9,8 @@ console.log(firstname + Lastname); // print ankit jha
 console.log(Lastname + firstname); // print Jha Ankit
 
 
-var first = 2.4
-var second = 6
+var first = 2.4;
+var second = 6;
 
 console.log(first + second); // print 6.4
 console.log (firstname + second); // print Ankit6
@@ -19,6 +19,7 @@ console.log (first + fullname); // print NAN
 
 // NAN
 //Not a Number
+
 
 /*
 
@@ -30,3 +31,5 @@ String + String = Concat to a String
     Number + Number = Addition to a Number
     Undefined + String = Concat to a String
     Undefined + Number = NaN
+
+    */
